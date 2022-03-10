@@ -20,8 +20,17 @@ footer{
 	font-size: 15px;
 }
 
-h1{
+h1, h3{
 	color:#d7cfbe;
+}
+
+a{
+	color: #ffcc00;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #ffeb9b;
 }
 
 .subheader{
@@ -51,6 +60,11 @@ h1{
 	margin:auto;
 	height: 300px;
 	border-radius: 2%;
+	border: 1px solid #d7cfbe;
+}
+
+.blocs a:hover{
+	font-size: 15px;
 }
 
 .blocs p{
