@@ -1,0 +1,77 @@
+body{
+	background-color: rgb(37, 37, 37, 0.9);
+	color: #e8e8e8;
+	margin: 0;
+}
+
+.header{
+	padding: 10px;
+	text-align: center;
+	border-bottom: 1px solid #d7cfbe;
+	background-color: #252525;
+}
+
+.header p{
+	margin-top: 50px;
+}
+
+footer{
+	text-align: right;
+	font-size: 15px;
+}
+
+h1{
+	color:#d7cfbe;
+}
+
+.subheader{
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.content{
+	padding-left: 20%;
+	padding-right: 20%;
+	text-align: justify;
+}
+
+.content p, h3{
+	padding-left:10%;
+	padding-right: 10%;
+}
+
+.blocs{
+	display:flex;
+	margin-top: 50px;
+}
+
+.blocs div{
+	width: 30%;
+	margin:auto;
+	height: 300px;
+	border-radius: 2%;
+}
+
+.blocs p{
+	text-align: center;
+	vertical-align: middle;
+	line-height: 250px;
+	font-size: 2em;
+	font-weight: bold;
+	color:#d7cfbe;
+	-webkit-text-stroke: 1px;
+	-webkit-text-stroke-color: #000;
+}
+
+.choregraphy{
+	background-image: url(chore.png);
+}
+
+.learning{
+	background-image: url(learning.jpg);
+}
+
+.show{
+	background-image: url(show.png);
+}
