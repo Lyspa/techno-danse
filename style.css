@@ -50,6 +50,10 @@ a:hover{
 	padding-right: 10%;
 }
 
+.content ul{
+	padding-left:20%;
+}
+
 .blocs{
 	display:flex;
 	margin-top: 50px;
@@ -63,15 +67,15 @@ a:hover{
 	border: 1px solid #d7cfbe;
 }
 
-.blocs a:hover{
-	font-size: 15px;
+.blocs a:hover p{
+	font-size: 30px;
 }
 
 .blocs p{
 	text-align: center;
 	vertical-align: middle;
 	line-height: 250px;
-	font-size: 2em;
+	font-size: 25px;
 	font-weight: bold;
 	color:#d7cfbe;
 	-webkit-text-stroke: 1px;
