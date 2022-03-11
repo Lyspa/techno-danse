@@ -28,7 +28,9 @@ Dans l'image suivante sont présentés quelques-uns de ces mots-clés.
 
 J'ai ensuite utilisé **FeedBro** pour récupérer et agrégé les résultats trouvés par les différents alertes. Plus précisément, j'ai récupéré à l'air de FeedBro les flux RSS des deux sites spécialisés et de mes alertes Google, paramétrées pour donner un flux RSS. Cela me permettait de centraliser tous les résultats, ou presque, dans un seul endroit. Seules les alertes de Google Scholar ne pouvaient pas se parémétrer et je les recevais par mail.
 
-En parallèle, TweetDeck ?
+En parallèle, j'ai aussi utilisé **TweetDeck** en utilisant des mots-clés similaires à ceux utilisés pour les différentes alertes. L'avantage de cet outil est qu'il permet un meilleur affichage des tweets récoltés et la récolte de potentielles nouvelles informations. Une capture d'écran de mon TweetDeck est présentée ci-dessous.
+
+![TweetDeck](https://www.zupimages.net/up/22/10/8s44.png)
 
 ## 3. Sélection
 
