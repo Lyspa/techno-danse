@@ -36,12 +36,14 @@ En parallèle, j'ai aussi utilisé **TweetDeck** en utilisant des mots-clés sim
 
 Pour la troisième étape de la veille, soit la sélection, j'ai décidé d'utiliser l'outil de sélection et de curation **Diigo** où j'ai déposé les pages webs et les fichiers pdf qui étaient de mon point de vue les plus intéressants. Cet outil me permet également d'ajouter des tags pour trier les différents liens partagés. J'ai donc décidé d'ajouter des tags pour préciser la technologie employée (intelligence artificielle, machine learning, motion capture...), la catégorie (chorégraphie, apprentissage ou spectacle) et d'autres mots-clés qui me semblaient pertinents pour décrire le contenu des liens partagés. J'ai aussi mis un tag "FR" pour indiquer les rares liens qui sont en français.
 
+![Diigo](https://www.zupimages.net/up/22/10/pltx.png)
+
 
 ## 4. Diffusion
 
 Enfin, pour la diffusion des informations récoltées, j'ai décidé de faire un site web, hébergé sur Github, me permettant de présenter mes résultats de manière synthétique et interactive, tout en renseignant mes sources.
 
-J'ai également utilisé Twitter pour partager trois informations qui me semblaient intéressantes, mais je n'ai guère trouvé plus d'informations à partager sur le réseau social.
+J'ai également utilisé Twitter pour partager trois informations qui me semblaient intéressantes, mais je n'ai guère trouvé plus d'informations à partager sur le réseau social. Les mots-clés que j'ai utilisé étaient sans doute trop larges.
 
 
 ## Conclusion
