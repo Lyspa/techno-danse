@@ -104,3 +104,11 @@ img{
 .show{
 	background-image: url(images/show.png);
 }
+
+.row{
+	display: flex;
+}
+
+.column{
+	width: 33%;
+}
