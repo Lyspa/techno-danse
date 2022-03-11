@@ -49,3 +49,5 @@ J'ai également utilisé Twitter pour partager trois informations qui me semblai
 ## Conclusion
 
 Ainsi, j'ai appris à réaliser une veille technologique. Toutes les étapes de la veille technologique et outils utilisés ont été ici présentés et sont résumés dans l'image ci-dessous. À noter que pour une veille sur une durée plus longue, il peut-être judicieux de bien redéfinir les mots-clés et d'itérer plusieurs fois toutes les étapes.
+
+![Conclusion](https://www.zupimages.net/up/22/10/2e6t.png)
