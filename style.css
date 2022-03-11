@@ -33,6 +33,17 @@ a:hover{
 	color: #ffeb9b;
 }
 
+img{
+	width: 50%;
+	height: auto;
+	display: block;
+	margin: auto;
+}
+
+.caption{
+	text-align: center;
+}
+
 .subheader{
 	text-align: center;
 	padding-top: 10px;
@@ -83,13 +94,13 @@ a:hover{
 }
 
 .choregraphy{
-	background-image: url(chore.png);
+	background-image: url(images/chore.png);
 }
 
 .learning{
-	background-image: url(learning.jpg);
+	background-image: url(images/learning.jpg);
 }
 
 .show{
-	background-image: url(show.png);
+	background-image: url(images/show.png);
 }
